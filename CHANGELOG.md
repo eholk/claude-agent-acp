@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.31.0](https://github.com/agentclientprotocol/claude-agent-acp/compare/v0.30.0...v0.31.0) (2026-04-20)
+
+
+### Features
+
+* Support effort levels ([#464](https://github.com/agentclientprotocol/claude-agent-acp/issues/464)) ([9e1185b](https://github.com/agentclientprotocol/claude-agent-acp/commit/9e1185bfd55cbf83a653a0ff8c194f986cbd1574))
+
 ## [0.30.0](https://github.com/agentclientprotocol/claude-agent-acp/compare/v0.29.2...v0.30.0) (2026-04-20)
 
 
